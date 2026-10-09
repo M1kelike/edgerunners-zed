@@ -11,3 +11,8 @@ Night City palette for [Zed](https://zed.dev/). Inspired by [Cyberpunk: Edgerunn
 ## License
 
 MIT
+
+## Disclaimer
+
+Unofficial fan work. Not affiliated with CD PROJEKT RED, Netflix, or Studio Trigger.
+Cyberpunk: Edgerunners and all related marks belong to their respective owners.
