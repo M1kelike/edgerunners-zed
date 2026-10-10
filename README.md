@@ -11,6 +11,12 @@ Night City palette for [Zed](https://zed.dev/). Inspired by [Cyberpunk: Edgerunn
 
 ## Screenshots
 
+![Code](/assets/code.webp)
+
+---
+
+![Diff](/assets/diff.webp)
+
 ## Why it doesn't burn your eyes
 
 Most cyberpunk themes are a screenshot of Night City poured into your editor:
